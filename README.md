@@ -1,4 +1,4 @@
 - 👋 Hola yo soy Gerbo Lopez
 - 👀 Me apasiona programar.
-- 🌱 Actualmente estudio ingenieria de software.
+- 🌱 Actualmente trabajo como ingenierio de software.
 - 💞️ Siempre disponible para aprender.
