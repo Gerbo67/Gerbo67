@@ -8,6 +8,13 @@
   <img height="200" src="https://github.com/user-attachments/assets/8f543be1-528c-4c42-bcb9-a7361b5db3ba"  />
 </div>
 
+<p align="center">
+  <a href="https://cv-gb.pages.dev/">
+    <img src="https://img.shields.io/badge/Link%20to%20my%20web-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Link to my web">
+  </a>
+</p>
+
+
 ###
 
 <p align="center">👋 Hello I am Gerbo Lopez - 👀 I am passionate about programming. - 🌱 I currently work as a software engineer. - 💞️ Always available to learn.</p>
