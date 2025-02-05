@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="">
+  <a href="https://cv-gb.pages.dev/">
     <img src="https://img.shields.io/badge/Link%20to%20my%20web-blue?style=for-the-badge&logo=globe&logoColor=white" alt="Link to my web">
   </a>
 </p>
